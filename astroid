@@ -3,7 +3,7 @@
 export bin="$PREFIX/bin"
 export PATH=export PATH=/usr/bin:/usr/sbin:/bin:/usr/local/bin:/usr/local/sbin:$bin:$PATH
 export ROOTFS="$HOME/.rootfs"
-export ROOTFS_URL="https://media.githubusercontent.com/media/daoudeddy/Astroid/main/rootfs/minimal-rootfs.tar.xz"
+export ROOTFS_URL="https://github.com/daoudeddy/Astroid/releases/download/v1.0.0/rootfs.tar.xz"
 
 unset LD_PRELOAD
 
